@@ -7,4 +7,4 @@ https://erdb.epa.gov.tw/DataRepository/EnvMonitor/AirQualityMonitorDayData.aspx?
 ###import Python mod
 ###load Air data. In this Case,we choosed date from 2010/01/01 to 2019/12/31. And drop null or error data rows.
 
-####![image](picture or gif url)
+####![image](dali_dataframe.png)
