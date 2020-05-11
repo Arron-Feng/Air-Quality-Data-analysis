@@ -6,7 +6,9 @@
 ## First step 
 ### in this case we use python and import model
 * Pandas for use Dataframe
-	import Pandas as pd
+````py
+import Pandas as pd
+````
 * matplotlib.pyplot for datavisualization
 ### import Python mod
 
