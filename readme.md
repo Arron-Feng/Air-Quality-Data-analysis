@@ -10,7 +10,16 @@
 import Pandas as pd
 ````
 * matplotlib.pyplot for datavisualization
-### import Python mod
+````py
+import Pandas as pd
+````
+
+* seaborn for more beautful and powerful python data visualization tool 
+** if you never installed seaborn in your computer use
+````cmd
+pip install seaborn
+````
+to install seaborn
 
 ### load Air data. In this Case,we choosed date from 2010/01/01 to 2019/12/31. And drop null or error data rows.
 
