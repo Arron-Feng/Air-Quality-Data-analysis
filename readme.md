@@ -5,6 +5,7 @@
 
 ## First step 
 ### in this case we use python and import model
+
 * Pandas for use Dataframe
 ````py
 import Pandas as pd
@@ -15,11 +16,18 @@ import Pandas as pd
 ````
 
 * seaborn for more beautful and powerful python data visualization tool 
-** if you never installed seaborn in your computer use
+````py
+import seaborn as sns
+import seaborn as seabornInstance 
+````
+
+* if you never installed seaborn in your computer use
 ````cmd
 pip install seaborn
 ````
 to install seaborn
+
+## Load Data into Pandas's Dataframe
 
 ### load Air data. In this Case,we choosed date from 2010/01/01 to 2019/12/31. And drop null or error data rows.
 
