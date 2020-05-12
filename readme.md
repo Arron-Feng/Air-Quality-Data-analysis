@@ -23,4 +23,4 @@ to install seaborn
 
 ### load Air data. In this Case,we choosed date from 2010/01/01 to 2019/12/31. And drop null or error data rows.
 
-#### ![image](out_put_png/dali_dataframe.png)
+ ![image](out_put_png/dali_dataframe.png)
